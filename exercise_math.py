@@ -1,4 +1,6 @@
-def math(a,b):
+def math():
+    a = 57
+    b = 7
     print (a+b)
     print (a-b)
     print (a*b)
@@ -7,4 +9,4 @@ def math(a,b):
     print (a/b)
 
 
-math(57,7)
+math()
